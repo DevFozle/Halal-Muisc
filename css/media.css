@@ -19,6 +19,9 @@
     }
 }
 @media(min-width:992px) and (max-width:1199px){
+    .banner-text-over {
+        padding-bottom: 300px;
+    }
     .header {
         padding-top: 120px;
     }
@@ -59,6 +62,9 @@
     .navbar-expand-lg .navbar-nav .nav-link:hover {
         color: #1eff00;
         background: #0f8a00;
+    }
+    .banner-text-over {
+        padding-bottom: 390px;
     }
     .header p {
         padding: 0px 50px;
@@ -105,6 +111,9 @@
     .navbar-expand-lg .navbar-nav .nav-link:hover {
         color: #0f8a00;
         background: #1eff00;
+    }
+    .banner-text-over {
+        padding-bottom: 390px;
     }
     .header p {
         padding: 0 0;
@@ -172,6 +181,9 @@
 @media(min-width:320px) and (max-width:575px){
     .navbar {
         background: #000;
+    }
+    .banner-text-over {
+        padding-bottom: 390px;
     }
     .banner-text h1 {
         font-size: 40px;
